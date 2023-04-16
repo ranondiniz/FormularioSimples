@@ -1,0 +1,34 @@
+.elemento {
+	padding: 0 20px;
+	display: flex;
+	width: 100%;
+}
+
+form {
+	width: 50%;
+	margin: 0 auto;
+	box-shadow: 0 4px 8px #999;
+}
+
+input, textarea {
+	width: 96%;
+	padding: 10px;
+	margin-bottom: 1em;
+	font: 1em sans-serif;
+	border: 1px solid #999;
+}
+
+label {
+	font-weight: bold;
+	padding-bottom: 5px;
+	display: inline-block;
+	padding-top: 5px;
+}
+
+button {
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+	font-weight: bold;
+	padding: 8px;
+}
